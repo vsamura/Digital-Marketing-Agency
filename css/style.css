@@ -95,6 +95,7 @@ body{
     align-items: center;
     width: 260px;
     margin-top: 77px;
+    border-radius: 11px;
     box-shadow: 0 4px 70px 0 rgba(91, 93, 99, 0.06);
 }
 .teams-img {
@@ -140,7 +141,6 @@ body{
         padding-bottom: 60px;
     }
 }
-@media screen and (max-width: 768px){}
 @media screen and (max-width: 576px){
     .header .container{
         padding: 60px 30px 62px;
