@@ -3,7 +3,7 @@
 
 ![screenshot](README/Digital-Marketing-Agency_.png)
 
-[GitHub Pages Design and layout](https://vsamura.github.io/Digital-Marketing-Agency/)  
+[GitHub Pages Digital Marketing Agency](https://vsamura.github.io/Digital-Marketing-Agency/)  
 
 Реализована полная адаптивная версия под различные устройства.  
 
